@@ -1,5 +1,7 @@
 # 👋 Hello
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartdebtth-star&show_icons=true&theme=dark)
 I am an indie developer building Flutter apps.
 
 ## 📱 My Apps

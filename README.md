@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello
 
-<!--
-**smartdebtth-star/smartdebtth-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an indie developer building Flutter apps.
 
-Here are some ideas to get you started:
+## 📱 My Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛒 Hand2Hand – Second-hand marketplace  
+- 💰 SmartDebt – Debt planning app  
+- 🔮 Tarot AI – AI tarot reading  
+- 🎯 Lucky Lottery – ตรวจหวยและเลขเด็ด
+
+## 🛠 Tech Stack
+
+* Flutter
+* Firebase
+* Google AdMob
+* AI integration
+
+## 🚀 Projects
+
+Check out my repositories below.

@@ -1,7 +1,5 @@
 # 👋 Hello
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartdebtth-star&show_icons=true&theme=dark)
 I am an indie developer building Flutter apps.
 
 ## 📱 My Apps
@@ -13,11 +11,14 @@ I am an indie developer building Flutter apps.
 
 ## 🛠 Tech Stack
 
-* Flutter
-* Firebase
-* Google AdMob
-* AI integration
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+![AdMob](https://img.shields.io/badge/AdMob-red)
 
-## 🚀 Projects
+## 📊 GitHub Stats
 
-Check out my repositories below.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartdebtth-star&show_icons=true&theme=dark)
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartdebtth-star&layout=compact&theme=dark)

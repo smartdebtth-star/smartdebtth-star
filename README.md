@@ -8,7 +8,7 @@ I am an indie developer building Flutter apps.
 - 💰 SmartDebt – Debt planning app  
 - 🔮 Tarot AI – AI tarot reading  
 - 🎯 Lucky Lottery – ตรวจหวยและเลขเด็ด
-
+-  Android Screen Recorder 
 ## 🛠 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)

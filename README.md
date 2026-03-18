@@ -1,14 +1,20 @@
-# 👋 Hello
+👋 Hello
 
-I am an indie developer building Flutter apps.
+I’m an indie developer building mobile apps with Flutter.
 
-## 📱 My Apps
+📱 My Apps
 
-- 🛒 Hand2Hand – Second-hand marketplace  
-- 💰 SmartDebt – Debt planning app  
-- 🔮 Tarot AI – AI tarot reading  
-- 🎯 Lucky Lottery – ตรวจหวยและเลขเด็ด
--  Android Screen Recorder 
+🛒 Hand2Hand – Second-hand marketplace
+
+💰 SmartDebt – AI-powered debt planning app
+
+🔮 Tarot AI – AI tarot reading experience
+
+🎯 Lucky Lottery – Thai lottery checker & predictions
+
+🎥 Screen Recorder – Android screen recording tool
+
+
 ## 🛠 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
